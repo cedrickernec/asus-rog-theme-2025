@@ -1,0 +1,60 @@
+:root {
+  --rog-magenta: #F5085F;
+  --rog-blue: #4B64F2;
+  --rog-cyan: #1DD8F7;
+  --rog-green: #5BE36A;
+  --rog-yellow: #F5F219;
+  --rog-bg: #1E1E1E;
+  --rog-text: #EAEAEA;
+}
+
+body {
+  background: var(--rog-bg);
+  color: var(--rog-text);
+  font-family: "Segoe UI", Consolas, sans-serif;
+  margin: 2rem;
+}
+
+header h1 {
+  color: var(--rog-magenta);
+  text-shadow: 0 0 8px var(--rog-blue);
+}
+
+.highlight {
+  color: var(--rog-cyan);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.swatch {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  border-radius: 3px;
+}
+
+.magenta { background: var(--rog-magenta); }
+.cyan { background: var(--rog-cyan); }
+.blue { background: var(--rog-blue); }
+.green { background: var(--rog-green); }
+.yellow { background: var(--rog-yellow); }
+
+button {
+  background: linear-gradient(90deg, var(--rog-magenta), var(--rog-blue));
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 0 10px var(--rog-magenta);
+  transition: 0.3s;
+}
+
+button:hover {
+  box-shadow: 0 0 20px var(--rog-cyan);
+  transform: translateY(-2px);
+}

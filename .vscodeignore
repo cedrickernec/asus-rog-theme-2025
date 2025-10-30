@@ -1,0 +1,12 @@
+.vscode/**
+.vscode-test/**
+node_modules/**
+.gitignore
+CHANGELOG.md
+*.log
+*.ps1
+*.bat
+*.cmd
+*.jpg
+*.jpeg
+*.gif
