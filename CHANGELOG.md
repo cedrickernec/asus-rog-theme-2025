@@ -9,3 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Custom syntax highlighting (HTML/CSS/JS)
 - SCM Graph customization
 - Terminal color tuning
+
+## [1.1.0] - 2025-10-30
+### Améliorations
+- Harmonisation des couleurs de la Status Bar
+- Ajustement du rendu des items dans le terminal (INFO, WARNING, ERROR, DONE)
+- Optimisation du contraste pour lecture prolongée
