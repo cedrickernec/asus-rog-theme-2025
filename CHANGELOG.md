@@ -21,3 +21,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Added transparency to overlays (status bar, sidebar)
 - Fixed VS Code warnings: "colour must be transparent"
 - Adjusted contrast on errors and highlights
+
+## [1.1.2] — 2025-11-04
+### Adjustments : Selection & Transparency Fix
+- Tuned **selection backgrounds** for improved readability and contrast balance  
+- Adjusted **transparency levels (alpha)** for better visual depth on highlight layers  
+- Minor polish on editor color harmony (no functional changes)
+
+*This update refines visual comfort without altering the theme structure.*

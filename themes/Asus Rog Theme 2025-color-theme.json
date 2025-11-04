@@ -10,11 +10,12 @@
 		"editorLineNumber.activeForeground":"#f5085f",
 		"editor.lineHighlightBackground":"#343944",
 
-		"editor.selectionBackground":"#0b0e15cc",
+		"editor.selectionBackground":"#081015e7",
 		"editor.inactiveSelectionBackground":"#0b0e15cc",
-		"editor.selectionHighlightBackground":"#64739460",
-		"editor.wordHighlightBackground":"#0b0e15cc",
-		"editor.wordHighlightStrongBackground":"#0b0e15cc",
+		"editor.selectionHighlightBackground":"#32abd440",
+		"editor.wordHighlightBackground":"#0b0e1566",
+		"editor.wordHighlightStrongBackground":"#0b0e1566",
+		"editor.hoverHighlightBackground":"#71154490",
 
 		"editor.findMatchBackground":"#f5085f",
 		"editor.findMatchHighlightForeground":"#ffffffCC",

@@ -2,7 +2,7 @@
 const user = "Cédric";
 let version = 2025;
 
-function greet(name {
+function greet(name) {
   console.log(`Welcome ${name} to ASUS ROG Theme ${version}!`);
 }
 

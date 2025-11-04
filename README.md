@@ -1,6 +1,13 @@
 # ASUS ROG Theme 2025
-
 Futuristic dark theme for VS Code — inspired by ASUS ROG design language (magenta & blue tones).
+
+![Version](https://img.shields.io/visual-studio-marketplace/v/cedrickernec.asus-rog-theme-2025?style=flat&color=32abd4&label=Version)
+![VSCode](https://img.shields.io/badge/VSCode-1.105+-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
+![Build](https://img.shields.io/badge/Build-Stable-blueviolet?style=flat)
+![License](https://img.shields.io/github/license/cedrickernec/asus-rog-theme-2025?style=flat&color=6C7484)
+[![Marketplace](https://img.shields.io/badge/VSCode_Marketplace-Link-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=cedrickernec.asus-rog-theme-2025)
+
 
 ## ✨ Features
 - Custom ASUS ROG color palette (Magenta / Cyan / Yellow / Green)
